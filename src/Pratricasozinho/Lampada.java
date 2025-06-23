@@ -16,15 +16,15 @@ Exibir no console o estado final (true ou false)
  */
 
 public class Lampada {
- boolean ligada = false;
+ boolean estaLigada = false;
 
     void ligar() {
-        ligada = true;
+        estaLigada = true;
         System.out.println("Lâmpada ligada.");
     }
 
     void desligar() {
-        ligada = false;
+        estaLigada = false;
         System.out.println("Lâmpada desligada.");
     }
 }
