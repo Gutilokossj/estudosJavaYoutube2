@@ -1,4 +1,4 @@
-package Pratricasozinho;
+package Pratricasozinho.Instanciar;
 
 /*
  *  Desafio 1: Criar um objeto e acessar métodos
