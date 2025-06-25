@@ -1,4 +1,4 @@
-package Pratricasozinho.Instanciar;
+package Pratricasozinho.TipoReferencia;
 
 /*
  * Desafio 2: Dois objetos da mesma classe com valores diferentes

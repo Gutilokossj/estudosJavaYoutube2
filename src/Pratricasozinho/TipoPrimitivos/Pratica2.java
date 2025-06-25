@@ -1,4 +1,4 @@
-package Pratricasozinho;
+package Pratricasozinho.TipoPrimitivos;
 
 /*
  *  Desafio 2 — Operações com tipos diferentes

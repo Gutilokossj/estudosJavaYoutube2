@@ -1,4 +1,4 @@
-package Pratricasozinho.Instanciar;
+package Pratricasozinho.TipoReferencia;
 
 /*
  * Desafio 3: Alterar objeto via método

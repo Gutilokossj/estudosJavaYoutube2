@@ -1,4 +1,4 @@
-package Pratricasozinho;
+package Pratricasozinho.TipoPrimitivos;
 
 /*
  * Desafio 1 — Conversão de tipos (casting)

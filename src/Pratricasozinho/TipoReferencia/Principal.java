@@ -1,4 +1,4 @@
-package Pratricasozinho.Instanciar;
+package Pratricasozinho.TipoReferencia;
 
 /**
  * Os desafios estão distribuidos em cada classe, Lampada, Pessoa, etc...

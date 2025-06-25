@@ -1,4 +1,4 @@
-package Pratricasozinho;
+package Pratricasozinho.TipoPrimitivos;
 
 /*
  * Desafio 3 — Limites dos tipos
