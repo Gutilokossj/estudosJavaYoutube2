@@ -22,10 +22,9 @@ public class Guerreiro {
     static int totalGuerreiros = 0;  // contador compartilhado
     String nome;
 
-    public Guerreiro(String nome) {
+    public Guerreiro(String nome) { //Construtor sempre tem o mesmo nome da classe
         this.nome = nome;
         totalGuerreiros++;
-
         //Classe.contador++ é a forma de registrar algo compartilhado
     }
 }

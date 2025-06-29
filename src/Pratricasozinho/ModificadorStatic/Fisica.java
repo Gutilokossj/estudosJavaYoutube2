@@ -18,10 +18,11 @@ Pode usar Math.round() ou Math.ceil() se quiser brincar com arredondamento nos v
  */
 
 public class Fisica {
-    static final double GRAVIDADE_TERRA = 9.80665;
-    static final double GRAVIDADE_LUA = 1.622;
+    static final double GRAVIDADE_LUA = 1.6; 
+    // ms-2
+    //lembrando que static final nao pode ser alterado, são constantes
 
     static double calcularPesoNaLua(double peso) {
-        return peso * GRAVIDADE_LUA / GRAVIDADE_TERRA;
+        return peso * GRAVIDADE_LUA;
     }
 }

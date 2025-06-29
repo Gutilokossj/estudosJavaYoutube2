@@ -22,15 +22,15 @@ Pode usar Math.round() ou Math.ceil() se quiser brincar com arredondamento nos v
 public class ContaCompartilhada {
     static double saldoTotal = 0;
 
-    static void depositar(double valor) {
-        // TODO: adicionar ao saldo total
+    void depositar(double valor) {
+       saldoTotal += valor;
     }
 
-    static void sacar(double valor) {
-        // TODO: remover do saldo total se houver saldo suficiente
+    void sacar(double valor) {
+        saldoTotal -= valor;
     }
 
     static void exibirSaldo() {
-        // TODO: mostrar o saldo atual
+        System.out.println("Saldo total: " + Math.round(saldoTotal) + " (R$)");
     }
 }
