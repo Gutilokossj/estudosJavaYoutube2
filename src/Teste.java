@@ -11,5 +11,6 @@ public class Teste {
          */
         Biblioteca biblioteca = new Biblioteca();
         System.out.println(biblioteca.banheiro); //Consigo acessar o atributo por ser publico
+
     }
 }
