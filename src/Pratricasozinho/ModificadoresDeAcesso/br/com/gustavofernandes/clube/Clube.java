@@ -1,6 +1,9 @@
 package Pratricasozinho.ModificadoresDeAcesso.br.com.gustavofernandes.clube;
 
 /*
+
+🧠 Desafio 1 – Clube Exclusivo
+
  * Objetivo: Praticar o uso de modificadores public, private e default.
 
 Situação:
